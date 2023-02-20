@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=encript
-comment1.params=originalPassword
-comment1.target=java.lang.String[]\ password_Encript(java.lang.String)
-numComments=2
