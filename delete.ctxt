@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=delete
+comment1.params=conn\ user_id\ name\ Originalpassword
+comment1.target=void\ deleteMenu(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=conn\ user_id\ name\ Originalpassword\ table
+comment2.target=void\ main(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=givenId\ table\ column\ secondTable
+comment3.target=int\ idObtainer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=conn\ user_id\ name\ Originalpassword\ table
+comment4.target=void\ deleteData(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=setId
+comment5.target=int\ deleteWorkout(java.lang.String)
+comment6.params=setId
+comment6.target=int\ deleteExSet(java.lang.String)
+comment7.params=setId
+comment7.target=int\ deleteExercise(java.lang.String)
+comment8.params=setId
+comment8.target=int\ deleteUser(java.lang.String)
+numComments=9

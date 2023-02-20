@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=searchUser
+comment0.text=\r\n\ Checks\ if\ the\ given\ credentials\ match\ an\ existing\ account\ then\ stores\ the\ credentials\ if\ they\ match\ an\ account\r\n\ \r\n\ @author\ \ Jo\u00E3o\ Silva\r\n\ @version\ 02/02/2023\r\n
+comment1.params=name\ password
+comment1.target=java.lang.String\ querry(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Querry\ main\ method\ -\ Counts\ the\ ammount\ of\ users\ in\ the\ database\ that\ have\ the\ name\ and\ passwords\ given\ before.\r\n\ \r\n\ @param\ a\ name\ and\ password\r\n\ @return\ the\ ammount\ of\ accounts\ with\ that\ name\ and\ password\r\n
+comment2.params=name\ password
+comment2.target=java.lang.String[]\ credentials(java.lang.String,\ java.lang.String)
+numComments=3

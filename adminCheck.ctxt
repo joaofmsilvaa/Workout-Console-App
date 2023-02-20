@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=adminCheck
+comment1.params=name\ password
+comment1.target=int\ querry(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ method\ verifies\ if\ the\ input\ name\ and\ password\ match\ the\ name\ and\ password\ of\ an\ admin\ user\ in\ the\ database.\r\n\ \r\n\ @param\ the\ name\ and\ password\ of\ the\ user\ to\ be\ verified\ \r\n\ \r\n\ @return\ an\ integer\ indicating\ if\ the\ user\ is\ an\ admin\:\ \r\n\ returns\ 1\ if\ the\ user\ is\ an\ admin,\ \r\n\ returns\ 0\ otherwise.\r\n
+numComments=2

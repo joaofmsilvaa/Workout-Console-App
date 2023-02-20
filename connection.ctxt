@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=connection
+comment0.text=\r\n\ Establishes\ a\ connection\ to\ the\ database\r\n\ \r\n\ @author\ \ Jo\u00E3o\ Silva\ \r\n\ @version\ 02/02/2023\r\n
+comment1.params=
+comment1.target=void\ connection()
+numComments=2

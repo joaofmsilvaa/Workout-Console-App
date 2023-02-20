@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Menus
+comment1.params=conn\ user_id\ name\ goal\ weight\ height\ Originalpassword
+comment1.target=void\ menu1(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Menu\ 1\ main\ method\ -\ asks\ the\ user\ which\ option\ he\ wants\ to\ choose\ and\r\n\ redirects\ the\ user\ to\ a\ method\ located\ in\ the\ data\ class\ or\ in\ the\r\n\ workout\ class\ depending\ on\ the\ option\r\n\ \r\n\ @param\ conn\ a\ connection\ to\ the\ database\ and\ the\ users\ credentials\r\n
+comment2.params=
+comment2.target=void\ credits()
+numComments=3

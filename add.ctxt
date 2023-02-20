@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=add
+comment1.params=conn\ user_id\ name\ Originalpassword
+comment1.target=void\ addMenu(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=conn\ user_id\ name\ Originalpassword\ table
+comment2.target=void\ main(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=conn\ user_id\ name\ Originalpassword\ table
+comment3.target=void\ addData(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=conn\ table
+comment4.target=java.lang.String[]\ columnsToInsert(java.sql.Connection,\ java.lang.String)
+comment5.params=columns
+comment5.target=java.lang.String[]\ dataForSet(java.lang.String[])
+comment6.params=columns
+comment6.target=java.lang.String[]\ dataForPlan(java.lang.String[])
+comment7.params=table
+comment7.target=int\ insertData(java.lang.String)
+numComments=8

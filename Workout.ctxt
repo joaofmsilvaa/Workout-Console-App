@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Workout
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Workout\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=conn\ user_id\ name\ goal\ weight\ height\ password
+comment1.target=void\ WorkoutPlan(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ workoutStatus()
+comment3.params=user_id\ name\ goal\ weight\ height\ password\ id_conjunto
+comment3.target=void\ training(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=4
