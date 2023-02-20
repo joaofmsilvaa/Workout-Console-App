@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=Log_in_admin
-comment1.params=conn\ user_id\ name\ Originalpassword
-comment1.target=void\ admin(java.sql.Connection,\ int,\ java.lang.String,\ java.lang.String)
-numComments=2
