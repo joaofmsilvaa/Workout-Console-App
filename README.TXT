@@ -6,7 +6,4 @@ HOW TO START THE PROGRAM:
   - 2º: Make sure to have the JDBC API set and correctly configured in your IDE
   - 3º: Execute the "connection" class and procceed
   
-Created by: https://github.com/JOao7640
-
-PS: The app was developed for a project in the course that im currently doing (Web technologies and mobile devices) and it can have some errors. 
-    If you find any try to contact me
+Created by: https://github.com/JOao7640 & https://github.com/IM-SaiNt-LuKe
